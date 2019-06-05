@@ -1,4 +1,7 @@
-This is a simple project done during a react and redux course with The Net Ninja. ([https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg] /  [https://github.com/iamshaunjp/react-redux-complete-playlist/tree/lesson-3])
+This is a simple project done during a react and redux course with The Net Ninja. 
+YouTube channel: [https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg]
+
+GitHub: [https://github.com/iamshaunjp/react-redux-complete-playlist/tree/lesson-3])
 
 ## Available Scripts
 
